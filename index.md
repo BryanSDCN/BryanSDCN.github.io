@@ -2,7 +2,7 @@
 
 [computer](computer.md)
 
-[web note](webnote.md)
+[web note](WebNote.md)
 
 [welcome](welcome.md)
 
