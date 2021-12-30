@@ -20,11 +20,11 @@
 
 几篇教程:
 
-- 这里是一个中文教程: sphinx使用手册
+- 这里是一个中文教程: [sphinx使用手册](http://zh-sphinx-doc.readthedocs.io)
 
-- 这里是官方网站: Sphinx
+- 这里是官方网站: [Sphinx](http://www.sphinx-doc.org)
 
-- 这里是一篇reStructuredText的教程: reStructuredText
+- 这里是一篇reStructuredText的教程: [reStructuredText](http://www.bary.com/doc/a/228277572381775842/)
 
 
 TBD
@@ -33,9 +33,9 @@ TBD
 
 GitHub的几篇教程:
 
-- 一篇GitHub教程: GitHub的使用
+- 一篇GitHub教程: [GitHub的使用](http://blog.csdn.net/hcbbt/article/details/11651229/)
 
-- 本地连接GitHub的两种方式对比: ssh VS https，signing failed
+- 本地连接GitHub的两种方式对比: [ssh VS https](http://blog.csdn.net/oDeviloo/article/details/52654590)，[signing failed](https://www.cnblogs.com/ailhc/p/6586465.html)
 
 
 TBD
