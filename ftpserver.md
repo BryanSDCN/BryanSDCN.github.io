@@ -1,3 +1,5 @@
+[返回主页](index.md)
+
 # Ubuntu搭建Ftp服务器
 
 ## 1. 安装vsftpd软件
@@ -64,4 +66,6 @@ sudo vim /etc/allowed_users
   记着 `sudo service vsftpd restart`
 - 直接浏览器访问 ftp：//主机ip地址，登录FTP服务器（ip可用ifconfig命令查看）
   按照提示输入 前面设置的用户名密码
+  
+[返回主页](index.md)
 
